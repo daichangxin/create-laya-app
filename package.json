@@ -1,7 +1,7 @@
 {
   "name": "create-laya-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "create-laya-app",
   "main": "bin/index.js",
   "bin": {
     "create-laya-app": "bin/index.js"
@@ -11,8 +11,12 @@
     "build": "rm -rf bin && tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "daichangxin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daichangxin/create-laya-app/issues"
+  },
+  "homepage": "https://github.com/daichangxin/create-laya-app#readme",
   "dependencies": {
     "fs-extra": "^9.1.0",
     "yargs": "^16.2.0"
@@ -20,8 +24,5 @@
   "devDependencies": {
     "@types/fs-extra": "^9.0.8",
     "@types/yargs": "^16.0.0"
-  },
-  "publishConfig": {
-    "access": "public"
   }
 }
