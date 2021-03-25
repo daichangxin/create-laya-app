@@ -1,6 +1,6 @@
 {
   "name": "create-laya-app",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "create-laya-app",
   "main": "bin/index.js",
   "bin": {
