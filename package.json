@@ -6,6 +6,10 @@
   "bin": {
     "create-laya-app": "bin/index.js"
   },
+  "files": [
+    "template",
+    "bin/index.js"
+  ],
   "scripts": {
     "start": "tsc --watch",
     "build": "rm -rf bin && tsc",
