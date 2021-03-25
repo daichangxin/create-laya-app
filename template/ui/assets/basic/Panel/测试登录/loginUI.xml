@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280">
+  <displayList>
+    <graph id="n6_gy3n" name="n6" xy="160,534" size="390,80" type="rect"/>
+    <component id="n1_stex" name="btn_login" src="9q3yyz" fileName="Panel/testButton.xml" xy="277,679" size="166,74">
+      <Button title="登录"/>
+    </component>
+    <text id="n2_stex" name="txt_name" xy="189,545" size="329,55" fontSize="30" color="#009900" align="center" vAlign="middle" autoSize="none" singleLine="true" text="" input="true"/>
+  </displayList>
+</component>

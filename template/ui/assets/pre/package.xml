@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="70twbacd">
+  <resources>
+    <component id="mdtui" name="UI_pre.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="pre" genCode="true"/>
+</packageDescription>

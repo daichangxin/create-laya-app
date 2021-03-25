@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="574,475" designImageOffsetX="-77" designImageOffsetY="-494">
+  <controller name="state" pages="0,确定取消,1,确定" selected="0"/>
+  <displayList>
+    <graph id="n41_9q3y" name="n41" xy="0,0" size="574,475" type="rect"/>
+    <component id="n26_95e2" name="btn_cancel" src="9q3yyz" fileName="Panel/Alert/testButton.xml" xy="69,334" size="200,76">
+      <gearDisplay controller="state" pages="0"/>
+      <Button title="取消"/>
+    </component>
+    <component id="n27_95e2" name="btn_ok" src="9q3yyz" fileName="Panel/Alert/testButton.xml" xy="304,334" size="200,76">
+      <gearDisplay controller="state" pages="0,1"/>
+      <gearXY controller="state" pages="0,1" values="304,334|187,334"/>
+      <Button title="确定"/>
+    </component>
+    <richtext id="n29_95e2" name="txt_content" xy="34,192" size="505,83" fontSize="32" color="#994716" align="center" vAlign="middle" leading="33" ubb="true" autoSize="none" autoClearText="true" text="是否继续？"/>
+    <text id="n39_10qou" name="txt_title" xy="81,75" size="412,42" fontSize="38" color="#994716" align="center" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="提示"/>
+  </displayList>
+</component>

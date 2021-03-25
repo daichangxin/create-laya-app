@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="lknomhc9">
+  <resources>
+    <component id="u1ap77" name="alertUI.xml" path="/Panel/Alert/" exported="true"/>
+    <component id="pil97e" name="ToastItem.xml" path="/Toast/" exported="true"/>
+    <image id="pil97f" name="tushi_kuang.png" path="/Toast/" scale="" scale9grid="129,31,219,50"/>
+    <component id="8iub7g" name="loginUI.xml" path="/Panel/测试登录/" exported="true"/>
+    <component id="95e2cl" name="safeBar.xml" path="/common/" exported="true"/>
+    <component id="l71yfl" name="UI_loading.xml" path="/Panel/加载/" exported="true"/>
+    <image id="z34rhb" name="loading.png" path="/Panel/加载/"/>
+    <component id="9q3yyz" name="testButton.xml" path="/Panel/"/>
+  </resources>
+  <publish name="basic" genCode="true"/>
+</packageDescription>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <text id="n0_mdtu" name="txt_info" xy="343,279" size="114,42" fontSize="30" color="#ffffff" singleLine="true" text="Loading"/>
+  </displayList>
+</component>

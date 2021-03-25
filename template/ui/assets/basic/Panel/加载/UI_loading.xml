@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="200,57">
+  <displayList>
+    <image id="n1_z34r" name="n1" src="z34rhb" fileName="Panel/加载/loading.png" xy="0,0"/>
+  </displayList>
+</component>

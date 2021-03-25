@@ -1,0 +1,27 @@
+{
+  "name": "create-laya-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "bin": {
+    "create-laya-app": "bin/index.js"
+  },
+  "scripts": {
+    "start": "tsc --watch",
+    "build": "rm -rf bin && tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^9.1.0",
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^9.0.8",
+    "@types/yargs": "^16.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

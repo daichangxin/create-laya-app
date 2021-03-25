@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="pbc1maz0">
+  <resources>
+    <component id="9q3y0" name="UI_home.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="home" genCode="true"/>
+</packageDescription>

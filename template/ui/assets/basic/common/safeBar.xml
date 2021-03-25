@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,2" initName="safeBar">
+  <displayList>
+    <graph id="n0_hban" name="n0" xy="0,0" size="100,2" type="rect" lineSize="0" fillColor="#ffff0000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+  </displayList>
+</component>
