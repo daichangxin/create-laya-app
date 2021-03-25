@@ -7,7 +7,7 @@
     "create-laya-app": "bin/index.js"
   },
   "files": [
-    "template",
+    "template/*",
     "bin/index.js"
   ],
   "scripts": {
